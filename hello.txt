@@ -1,0 +1,1 @@
+this a Tuto about Git instead of CVS 
