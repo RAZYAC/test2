@@ -1,1 +1,3 @@
 this a Tuto about Git instead of CVS 
+today we talk about 
+classes
